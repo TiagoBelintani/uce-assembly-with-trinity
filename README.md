@@ -1,2 +1,2 @@
 # uce-assembly-with-trinity
-Python Scripts for Assembling ECU's with Trinity: Option to the Phyluce Package 
+Python Scripts for Assembling UCEs with Trinity: Option to the Phyluce Package 
